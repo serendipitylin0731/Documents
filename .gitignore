@@ -1,0 +1,9 @@
+# Microsoft Office temporary and lock files
+~$*
+*.tmp
+*.temp
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
